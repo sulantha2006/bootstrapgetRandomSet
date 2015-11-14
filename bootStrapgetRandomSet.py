@@ -1,4 +1,4 @@
-#!/home/sulantha/anaconda3/bin/python
+
 import random
 import sys
 
